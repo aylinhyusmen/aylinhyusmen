@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://twitter.com/aylinhyusmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aylinhyusmen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aylin-hyusmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aylin-hyusmen" height="30" width="40" /></a>
-<a href="https://instagram.com/aylinhyusmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aylinhyusmen" height="30" width="40" /></a>
 ... or email me at ahyusmen@icloud.com
 </p>
 

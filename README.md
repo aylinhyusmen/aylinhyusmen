@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aylinhyusmen and you can watch me become the best at what I do right here on my GitHub page.
-- 👀 I’m interested ... in Social Media, Tech && Gym.
+- 👀 I’m interested ... in Social Media, Tech & Gym.
 - 🌱 I’m currently learning ... how to master the Front-End.
 - 🎯 In the near future I plan to ... move to Paris & buy a Dobberman.
 - 🤞 One day I hope to ... have the chance to work for Apple.

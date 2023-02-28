@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aylinhyusmen and I'm a certified Front-End Engineer.
-- 💻 Currently working at a startup company.
 - 👀 I’m interested ... in self-improvement, collaborations on projects, freelance work and JIM.
 - 🎯 In the near future I plan to ... learn THREE.JS and AR.
 - 🤞 One day I hope to ... master the art of eight limbs.
